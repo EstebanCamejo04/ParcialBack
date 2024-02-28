@@ -1,0 +1,76 @@
+[2024-02-27 22:10:55] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:10:55] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:10:55] [ INFO ] [OdontologoDaoH2:61] Estamos consultando todos los odontologos
+[2024-02-27 22:10:55] [ INFO ] [OdontologoDaoH2:89] Esta es la lista que se está devolviendo??? []
+[2024-02-27 22:12:23] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:12:23] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:12:23] [ INFO ] [OdontologoDaoH2:61] Estamos consultando todos los odontologos
+[2024-02-27 22:12:23] [ INFO ] [OdontologoDaoH2:89] Esta es la lista que se está devolviendo??? [model.Odontologo@7b2bbc3, model.Odontologo@a1153bc]
+[2024-02-27 22:13:45] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:13:45] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:13:45] [ INFO ] [OdontologoDaoH2:61] Estamos consultando todos los odontologos
+[2024-02-27 22:13:45] [ INFO ] [OdontologoDaoH2:89] Esta es la lista que se está devolviendo??? [Odontologo{numeroMatricula=1, nombre='120', apellido='Ruben'}, Odontologo{numeroMatricula=2, nombre='121', apellido='Esteban'}]
+[2024-02-27 22:15:13] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:15:13] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:15:13] [ INFO ] [OdontologoDaoH2:61] Estamos consultando todos los odontologos
+[2024-02-27 22:15:13] [ INFO ] [OdontologoDaoH2:89] Esta es la lista que se está devolviendo??? []
+[2024-02-27 22:24:30] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:24:30] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:24:30] [ INFO ] [OdontologoDaoH2:61] Estamos consultando todos los odontologos
+[2024-02-27 22:24:30] [ INFO ] [OdontologoDaoH2:89] Esta es la lista que se está devolviendo??? [Odontologo con ID: nullnumeroMatricula:1, nombre:120apellido:Ruben, Odontologo con ID: nullnumeroMatricula:2, nombre:121apellido:Esteban]
+[2024-02-27 22:27:21] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:27:21] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:27:21] [ INFO ] [OdontologoDaoH2:61] Estamos consultando todos los odontologos
+[2024-02-27 22:27:21] [ INFO ] [OdontologoDaoH2:89] Esta es la lista que se está devolviendo??? [Odontologo con ID: nullnumeroMatricula:1, nombre:120apellido:Ruben, Odontologo con ID: nullnumeroMatricula:2, nombre:121apellido:Esteban]
+[2024-02-27 22:31:08] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:31:08] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:31:08] [ INFO ] [OdontologoDaoH2:65] Estamos consultando todos los odontologos
+[2024-02-27 22:31:08] [ INFO ] [OdontologoDaoH2:93] Esta es la lista que se está devolviendo??? [Odontologo con ID: nullnumeroMatricula:1, nombre:120apellido:Ruben, Odontologo con ID: nullnumeroMatricula:2, nombre:121apellido:Esteban]
+[2024-02-27 22:31:34] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:31:34] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:31:34] [ INFO ] [OdontologoDaoH2:65] Estamos consultando todos los odontologos
+[2024-02-27 22:31:34] [ INFO ] [OdontologoDaoH2:93] Esta es la lista que se está devolviendo??? [Odontologo con ID: nullnumeroMatricula:1, nombre:120apellido:Ruben, Odontologo con ID: nullnumeroMatricula:2, nombre:121apellido:Esteban]
+[2024-02-27 22:36:03] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:36:03] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:36:03] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 22:36:03] [ INFO ] [OdontologoDaoH2:92] Esta es la lista que se está devolviendo??? [Odontologo con ID: nullnumeroMatricula:1, nombre:120apellido:Ruben, Odontologo con ID: nullnumeroMatricula:2, nombre:121apellido:Esteban]
+[2024-02-27 22:37:00] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:37:00] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:37:00] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 22:38:01] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:38:01] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:38:01] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 22:38:57] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:38:57] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:38:57] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 22:39:45] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:39:45] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:39:45] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 22:39:56] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:39:56] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:39:56] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 22:42:32] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:42:32] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:42:32] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 22:43:29] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 22:43:41] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:43:41] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:43:41] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 22:51:20] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:51:20] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 22:51:20] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 23:22:36] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 23:22:36] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 23:22:36] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 23:27:52] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 23:27:52] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 23:27:52] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 23:32:26] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 23:32:26] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 23:32:26] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 23:36:09] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 23:36:09] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 23:36:09] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
+[2024-02-27 23:47:22] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 23:47:22] [ INFO ] [OdontologoDaoH2:28] Estamos persistiendo odontologos
+[2024-02-27 23:47:22] [ INFO ] [OdontologoDaoH2:64] Estamos consultando todos los odontologos
